@@ -1,1 +1,15 @@
-
+Requirements:
+1. User can register.
+2. Able to login as user and admin.
+3. Can change profile information with the same fields in registered field.
+4. Able to search goods with filters: categories and price range. 
+5. Goods are divided in categories
+6. User can select the item with quantity.
+7. Unavailable stocks can still be search but disabled when purchase.
+8. Create a cart that will store the selected item to purchase.
+9. Choosing checkout will lead to the summary of the items to purchase and corresponding prices and taxes.
+10. After checkout is the payment page with options: COD, Bank, Credit Card, Loyalty Points
+11. Delivery Address is displayed after payment is made. System displays common fields in delivery address. In this page user can request as well when to delivery the groceries. Minimum time is 1 hour and maximum is 1month. They can make it as recurring as well per month.
+12. After delivery page is summary page that contains the total cost, delivery address and agreed time of delivery.
+13. History page is available where current and previous transactions are displayed. It contains the summary, cost, date and status.
+14. Delivery transaction status are in-progress and delivered. Inprogress means the item is ready delivery while Delivered means groceries are received by the user.
